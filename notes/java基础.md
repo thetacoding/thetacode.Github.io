@@ -29,7 +29,7 @@
 
   - char / 2
 
-    > [unicode编码机制——代码点和代码单元]()
+    > [unicode编码机制——代码点和代码单元](notes/extension/unicode编码机制、码点、代码单元.md)
     >
     > 在Java中，char类型描述了UTF-16编码中的一个代码单元，所以是2个字节
     >
