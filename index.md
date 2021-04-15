@@ -5,7 +5,7 @@
 
 - [java基础](notes/java基础.md)
 
-- [java并发](notes/java并发)
+- [java并发](notes/java并发.md)
 
 ### 数据结构与算法
 
