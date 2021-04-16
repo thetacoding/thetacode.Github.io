@@ -29,7 +29,7 @@
 
     - char / 2
     
-    > [unicode编码机制——代码点和代码单元](extension/unicode编码机制——代码点和代码单元.md)
+    > [unicode编码机制](extension/unicode编码机制.md)
     >
     > 在Java中，char类型描述了UTF-16编码中的一个代码单元，所以是2个字节
     >
@@ -40,7 +40,7 @@
     - boolean / true or false
     
     > 整型与布尔值之间不能进行相互转换
- 
+
 - 包装类型
 
   > 基本类型都有对应的包装类型，基本类型与其对应的包装类型之间的赋值使用自动装箱与拆箱完成。
